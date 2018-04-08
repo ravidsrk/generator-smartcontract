@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ravindra Kumar",
+      "authorEmail": "ravidsrk@gmail.com",
+      "authorUrl": "https://ravidsrk.com/"
+    }
+  }
+}
